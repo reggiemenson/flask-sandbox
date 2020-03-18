@@ -1,4 +1,4 @@
-from app import db
+from app import db, login
 
 from datetime import datetime
 
